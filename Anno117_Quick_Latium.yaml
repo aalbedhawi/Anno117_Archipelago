@@ -1,0 +1,21 @@
+# Anno 117: Pax Romana - quick solo or small-room game in Latium (a few hours)
+# Change `name` to your slot name (16 characters max, unique in the room).
+
+name: AnnoPlayer
+game: Anno 117
+description: Latium only, Patricians goal, short
+requires:
+  version: 0.6.8
+
+Anno 117:
+  provinces: latium
+  goal: auto                 # Patricians
+  goal_population: 200
+  milestones_per_tier: 5
+  milestone_cap: 600
+  building_checks: true
+  military_buildings: false  # fewer, more meaningful items
+  tiered_placement: true
+  shuffle_residences: false
+  prophecies_of_ash: false   # true only if you own the DLC
+  denarii_per_cache: 15000
