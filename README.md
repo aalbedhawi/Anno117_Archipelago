@@ -11,7 +11,8 @@ first time sends items to the other players.
 
 **Contents:** [What you get](#what-you-get) · [Install](#install) · [Your first game](#your-first-game) ·
 [Options](#options) · [Client commands](#client-commands) · [Tips](#tips) · [Troubleshooting](#troubleshooting) ·
-[How it works](#how-it-works) · [Development](#development) · [Feedback](#feedback) · [Credits](#credits-and-licence)
+[How it works](#how-it-works) · [Development](#development) · [Feedback](#feedback) · [AI disclosure](#ai-disclosure) ·
+[Credits](#credits-and-licence)
 
 ## What you get
 
@@ -23,10 +24,11 @@ first time sends items to the other players.
 - **Provinces:** Latium, Albion or both. With both, you pick where you start, and the other province opens at your
   third tier, like in the game.
 - **Logic built from the game's data:** production chains, coal fuel, every tier's needs, the tier at which the game
-  normally offers each building, and goods made in each province. Nothing in your world is expected before the game
-  lets you do it.
-- **Three phases** (early, middle, late) keep your items in checks of their own phase or earlier, so a Plebeian
-  building is never stuck behind your Nobles.
+  normally offers each building. Nothing in your world is expected before the game lets you do it. Shipping goods
+  between provinces works as usual, but logic never relies on it.
+- **Three phases** (early, middle, late) keep your items in your own checks of their phase or earlier, so a
+  Plebeian building is never stuck behind your Nobles. Items that land in other players' games follow
+  Archipelago's usual rules; see [Tips](#tips) for keeping them early.
 - **No manual delivery.** Items are typed into the game while you play, residences unlock themselves, and the game
   mod keeps itself up to date.
 
@@ -113,6 +115,10 @@ All population numbers are **residents, not workforce**.
 
 Your second province's checks and items count as middle at the earliest, whichever province you start in.
 
+Phases only decide which of **your own** checks your items can go into. Most of your items will land in other
+players' games, where Archipelago places them by its own rules: never behind anyone finishing their game, but
+possibly late in it. `early_materials` and `progression_balancing` (below, in [Tips](#tips)) pull them earlier.
+
 ### Client settings (`host.yaml`)
 
 In the `anno117_options` section of `host.yaml` in your Archipelago folder:
@@ -141,8 +147,12 @@ Archipelago's usual commands work too: `!hint <item>`, `/received`, `/missing`, 
 
 - **Pick a big map with lots of islands.** Logic doesn't see island fertility. Olives, flax, oysters and the like need
   the right island, so more islands means fewer surprises.
-- **Trade.** Traders sell goods and building materials. Logic never counts on them, but they bridge a gap while you
-  wait for an item.
+- **Trade and ship.** Traders sell goods and building materials, and you can ship goods between your provinces.
+  Logic never counts on either, so they are free shortcuts while you wait for an item.
+- **Want your items early in other games too?** Set `progression_balancing: 99` in your YAML (the Grand Tour example
+  does). Archipelago then pulls your progression items as early as it can across the whole multiworld, which suits
+  a slow game like Anno. For a building you really can't do without, `local_items` keeps it in your own world,
+  where the phases apply.
 - **Look at the province you built in.** The game only reports buildings in the province your camera is in, so a
   build check in your other province fires once you look there.
 - **Milestones count your record.** They use the highest number of residents a tier ever had, so a fire or riot
@@ -254,10 +264,29 @@ Playtest reports are the most useful thing you can send:
   the logic expects something the game doesn't allow. Include the item, the check and your spoiler log.
 - **[Feedback](../../issues/new?template=feedback.yml)**: balance, options, pacing, how a run felt.
 
+## AI disclosure
+
+This project was built with generative AI. To be specific:
+
+- **Code:** most of the code was written by Claude (Anthropic), an AI model, working from my instructions. That
+  covers the apworld (logic, options, items, locations), the Anno 117 Client, the Lua bridge mod, the data
+  generator, the build tools and the test suites.
+- **Documentation:** the README, setup guide, game page and other docs were also drafted by Claude.
+- **My part (aalbedhawi):** the idea, the design decisions (for example unshuffled residences, the early / middle /
+  late phases, the second province opening at the third tier, keeping items in their phase), reviewing the
+  results, and playtesting in Anno 117. Several logic fixes came straight from bugs I found while playing.
+- **Not AI-generated:** the game data, which comes from the community anno-117-calculator (see
+  [CREDITS.md](CREDITS.md)), and Archipelago itself.
+
+Everything is covered by automated tests (Archipelago's world tests, our logic tests, the bridge tests in Luau and
+end-to-end tests against a simulated game), and the in-game behaviour is being checked by playtesting. If you find
+a problem, please [report it](#feedback).
+
 ## Credits and licence
 
 Made by aalbedhawi. MIT licence, see [LICENSE](LICENSE). Game data from the anno-117-calculator by Nico Höllerich
-(MIT); full credits in [CREDITS.md](CREDITS.md). Built with the help of Claude (Anthropic).
+(MIT); full credits in [CREDITS.md](CREDITS.md). Mostly written by Claude (Anthropic): see the
+[AI disclosure](#ai-disclosure).
 
 Anno 117: Pax Romana is © Ubisoft Entertainment. This is an unofficial fan project, not affiliated with, endorsed by
 or sponsored by Ubisoft. You need your own copy of the game.
