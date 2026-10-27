@@ -1,0 +1,41 @@
+<ModOps>
+  <!--
+    Keybinds for the Archipelago bridge.
+    Shift+F5 asks the client to deliver waiting items (only used when items are typed in through keys).
+    Shift+F6/F7/F8/F9 are pressed by the Anno 117 Client itself to type data in; you never need to press them.
+    If one of these clashes with another binding, change the KeyType here and the matching keys in the client
+    (see the setup guide).
+  -->
+  <ModOp GUID="2001271" Add="ShortcutConfig/InputBindings">
+    <Item>
+      <InputTypes><Modern><KeyType>Shift;F5</KeyType></Modern><Legacy><KeyType>Shift;F5</KeyType></Legacy></InputTypes>
+      <Command>AP117.RequestItems()</Command>
+      <Active>Session;WorldMap;Popup;Menu;Pause</Active>
+      <AvailableOnPlatforms>PC</AvailableOnPlatforms>
+    </Item>
+    <Item>
+      <InputTypes><Modern><KeyType>Shift;F6</KeyType></Modern><Legacy><KeyType>Shift;F6</KeyType></Legacy></InputTypes>
+      <Command>AP117.KeyBit(0)</Command>
+      <Active>Session;WorldMap;Popup;Menu;Pause</Active>
+      <AvailableOnPlatforms>PC</AvailableOnPlatforms>
+    </Item>
+    <Item>
+      <InputTypes><Modern><KeyType>Shift;F7</KeyType></Modern><Legacy><KeyType>Shift;F7</KeyType></Legacy></InputTypes>
+      <Command>AP117.KeyBit(1)</Command>
+      <Active>Session;WorldMap;Popup;Menu;Pause</Active>
+      <AvailableOnPlatforms>PC</AvailableOnPlatforms>
+    </Item>
+    <Item>
+      <InputTypes><Modern><KeyType>Shift;F8</KeyType></Modern><Legacy><KeyType>Shift;F8</KeyType></Legacy></InputTypes>
+      <Command>AP117.KeyEnd()</Command>
+      <Active>Session;WorldMap;Popup;Menu;Pause</Active>
+      <AvailableOnPlatforms>PC</AvailableOnPlatforms>
+    </Item>
+    <Item>
+      <InputTypes><Modern><KeyType>Shift;F9</KeyType></Modern><Legacy><KeyType>Shift;F9</KeyType></Legacy></InputTypes>
+      <Command>AP117.KeyReset()</Command>
+      <Active>Session;WorldMap;Popup;Menu;Pause</Active>
+      <AvailableOnPlatforms>PC</AvailableOnPlatforms>
+    </Item>
+  </ModOp>
+</ModOps>

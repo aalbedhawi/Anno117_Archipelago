@@ -19,3 +19,18 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---------------------------------------------------------------------------
+
+This licence covers the code and documentation in this repository. It does not
+cover third-party material, which keeps its own licence (see CREDITS.md):
+
+- apworld/anno117/data/game_data.json and tools/params.js are derived from the
+  anno-117-calculator, MIT licence, Copyright (c) 2019-2024 Nico Höllerich
+  (NiHoel). Its full licence text is in
+  apworld/anno117/data/LICENSE-anno-117-calculator.txt and
+  tools/LICENSE-params.js.txt.
+
+Anno 117: Pax Romana, its name, content and game data are the property of
+Ubisoft Entertainment. This is an unofficial fan project, not affiliated with,
+endorsed by or sponsored by Ubisoft.

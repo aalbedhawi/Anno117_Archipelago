@@ -1,0 +1,48 @@
+# Anno 117: Pax Romana - "Grand Tour" multiworld settings (about 25 hours of Anno)
+# Needs anno117.apworld v0.3.1 or newer.
+#
+# Change `name` to your slot name (16 characters max, unique in the room).
+
+name: AnnoPlayer
+game: Anno 117
+description: Both provinces, every top tier, ~25 hours
+requires:
+  version: 0.6.8
+
+Anno 117:
+  # Archipelago defaults: every location must be reachable, so nobody can be locked out by this world.
+  progression_balancing: 50
+  accessibility: full
+
+  # Start in Latium, the game opens Albion once you have Equites.
+  provinces: both
+  starting_province: latium
+
+  # Win with 2000 Patricians, 2000 Aldermen and 2000 Nobles at the same time (residents, not workforce).
+  goal: all_top_tiers
+  goal_population: 2000
+
+  # 10 population milestones per tier (residents). The biggest is 5000 for Liberti, Plebeians, Waders,
+  # Smiths and Mercators, 3000 for Equites, Aldermen and Nobles, and 2000 for Patricians.
+  milestones_per_tier: 10
+  milestone_cap: 5000
+
+  # Every production building is an item, and building each one for the first time is a check.
+  building_checks: true
+  military_buildings: true
+
+  # Your items only sit in checks of their own tier or lower.
+  tiered_placement: true
+
+  # Residents upgrade the normal way; only buildings are shuffled.
+  shuffle_residences: false
+  early_upgrade: early  # only used if shuffle_residences is true
+
+  # Set to true only if you own the Prophecies of Ash DLC.
+  prophecies_of_ash: false
+
+  denarii_per_cache: 10000
+
+  # Your starting province's tiles/coal (Latium) or wattle & daub (Albion) buildings are found in the first
+  # checks of the whole multiworld, whichever game they land in.
+  early_materials: true

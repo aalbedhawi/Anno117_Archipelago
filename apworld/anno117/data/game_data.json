@@ -1,0 +1,5293 @@
+{
+ "source": "anno-mods/anno-117-calculator js/params.js (MIT, (c) 2019-2024 Nico Hoellerich)",
+ "regions": {
+  "Roman": "Latium",
+  "Celtic": "Albion"
+ },
+ "dlcs": {
+  "67902": "Prophecies of Ash",
+  "67903": "The Hippodrome"
+ },
+ "denarii_guid": 1010017,
+ "products": {
+  "2063": {
+   "name": "Flax",
+   "construction": false
+  },
+  "2068": {
+   "name": "Oats",
+   "construction": false
+  },
+  "2069": {
+   "name": "Wheat",
+   "construction": false
+  },
+  "2070": {
+   "name": "Grapes",
+   "construction": false
+  },
+  "2071": {
+   "name": "Lavender",
+   "construction": false
+  },
+  "2072": {
+   "name": "Olives",
+   "construction": false
+  },
+  "2073": {
+   "name": "Sheep",
+   "construction": false
+  },
+  "2074": {
+   "name": "Pigs",
+   "construction": false
+  },
+  "2075": {
+   "name": "Horses",
+   "construction": false
+  },
+  "2076": {
+   "name": "Honeycombs",
+   "construction": false
+  },
+  "2077": {
+   "name": "Wood",
+   "construction": false
+  },
+  "2078": {
+   "name": "Limestone",
+   "construction": false
+  },
+  "2079": {
+   "name": "Silver Ore",
+   "construction": false
+  },
+  "2080": {
+   "name": "Iron Ore",
+   "construction": false
+  },
+  "2084": {
+   "name": "Uncut Marble",
+   "construction": false
+  },
+  "2085": {
+   "name": "Coal",
+   "construction": false
+  },
+  "2086": {
+   "name": "Clay",
+   "construction": false
+  },
+  "2087": {
+   "name": "Sturgeon",
+   "construction": false
+  },
+  "2088": {
+   "name": "Sardines",
+   "construction": false
+  },
+  "2089": {
+   "name": "Mackerel",
+   "construction": false
+  },
+  "2090": {
+   "name": "Salt",
+   "construction": false
+  },
+  "2091": {
+   "name": "Silica",
+   "construction": false
+  },
+  "2093": {
+   "name": "Barley",
+   "construction": false
+  },
+  "2094": {
+   "name": "Dye Plants",
+   "construction": false
+  },
+  "2097": {
+   "name": "Cockles",
+   "construction": false
+  },
+  "2099": {
+   "name": "Copper Ore",
+   "construction": false
+  },
+  "2100": {
+   "name": "Tin Ore",
+   "construction": false
+  },
+  "2101": {
+   "name": "Granite Block",
+   "construction": false
+  },
+  "2102": {
+   "name": "Mud",
+   "construction": false
+  },
+  "2103": {
+   "name": "Reeds",
+   "construction": false
+  },
+  "2105": {
+   "name": "Aurochs",
+   "construction": false
+  },
+  "2106": {
+   "name": "Small Birds",
+   "construction": false
+  },
+  "2108": {
+   "name": "Eels",
+   "construction": false
+  },
+  "2110": {
+   "name": "Leather",
+   "construction": false
+  },
+  "2112": {
+   "name": "Oysters",
+   "construction": false
+  },
+  "2115": {
+   "name": "Iron",
+   "construction": false
+  },
+  "2117": {
+   "name": "Glass",
+   "construction": false
+  },
+  "2119": {
+   "name": "Flour",
+   "construction": false
+  },
+  "2121": {
+   "name": "Cloth",
+   "construction": false
+  },
+  "2123": {
+   "name": "Ornate Wood",
+   "construction": false
+  },
+  "2124": {
+   "name": "Pigments",
+   "construction": false
+  },
+  "2126": {
+   "name": "Celtic Green",
+   "construction": false
+  },
+  "2127": {
+   "name": "Bronze",
+   "construction": false
+  },
+  "2128": {
+   "name": "Chassis",
+   "construction": false
+  },
+  "2129": {
+   "name": "Silver",
+   "construction": false
+  },
+  "2131": {
+   "name": "Malt",
+   "construction": false
+  },
+  "2132": {
+   "name": "Lard",
+   "construction": false
+  },
+  "2133": {
+   "name": "Bird Tongues",
+   "construction": false
+  },
+  "2135": {
+   "name": "String",
+   "construction": false
+  },
+  "2136": {
+   "name": "Porridge",
+   "construction": false
+  },
+  "2137": {
+   "name": "Bread",
+   "construction": false
+  },
+  "2138": {
+   "name": "Wine",
+   "construction": false
+  },
+  "2139": {
+   "name": "Garum",
+   "construction": false
+  },
+  "2140": {
+   "name": "Oysters with Caviar",
+   "construction": false
+  },
+  "2141": {
+   "name": "Tunics",
+   "construction": false
+  },
+  "2142": {
+   "name": "Pileus",
+   "construction": false
+  },
+  "2143": {
+   "name": "Soap",
+   "construction": false
+  },
+  "2144": {
+   "name": "Sandals",
+   "construction": false
+  },
+  "2145": {
+   "name": "Togas",
+   "construction": false
+  },
+  "2146": {
+   "name": "Necklaces",
+   "construction": false
+  },
+  "2147": {
+   "name": "Loungers",
+   "construction": false
+  },
+  "2149": {
+   "name": "Olive Oil",
+   "construction": false
+  },
+  "2150": {
+   "name": "Writing Tablets",
+   "construction": false
+  },
+  "2151": {
+   "name": "Fine Glass",
+   "construction": false
+  },
+  "2152": {
+   "name": "Mosaics",
+   "construction": true
+  },
+  "2153": {
+   "name": "Cheese",
+   "construction": false
+  },
+  "2154": {
+   "name": "Beer",
+   "construction": false
+  },
+  "2155": {
+   "name": "Bird Tongues in Aspic",
+   "construction": false
+  },
+  "2156": {
+   "name": "Brooches",
+   "construction": false
+  },
+  "2157": {
+   "name": "Torcs",
+   "construction": false
+  },
+  "2158": {
+   "name": "Trousers",
+   "construction": false
+  },
+  "2159": {
+   "name": "Reed Shoes",
+   "construction": false
+  },
+  "2161": {
+   "name": "Cloaks",
+   "construction": false
+  },
+  "2162": {
+   "name": "Handmirrors",
+   "construction": false
+  },
+  "2163": {
+   "name": "Chariots",
+   "construction": false
+  },
+  "2166": {
+   "name": "Standing Lyres",
+   "construction": false
+  },
+  "2169": {
+   "name": "Wattle & Daub",
+   "construction": true
+  },
+  "2171": {
+   "name": "Rope",
+   "construction": true
+  },
+  "2172": {
+   "name": "Sails",
+   "construction": true
+  },
+  "2173": {
+   "name": "Weapons",
+   "construction": true
+  },
+  "2174": {
+   "name": "Timber",
+   "construction": true
+  },
+  "2176": {
+   "name": "Tiles",
+   "construction": true
+  },
+  "2178": {
+   "name": "Concrete",
+   "construction": true
+  },
+  "2179": {
+   "name": "Marble",
+   "construction": true
+  },
+  "2180": {
+   "name": "Tyrian Purple",
+   "construction": false
+  },
+  "2671": {
+   "name": "Market",
+   "construction": false
+  },
+  "2677": {
+   "name": "Tavern",
+   "construction": false
+  },
+  "2678": {
+   "name": "Library",
+   "construction": false
+  },
+  "2679": {
+   "name": "Sanctuary",
+   "construction": false
+  },
+  "2680": {
+   "name": "Grammaticus",
+   "construction": false
+  },
+  "2681": {
+   "name": "Forum",
+   "construction": false
+  },
+  "2683": {
+   "name": "Theatre",
+   "construction": false
+  },
+  "2684": {
+   "name": "Temple",
+   "construction": false
+  },
+  "2685": {
+   "name": "Baths",
+   "construction": false
+  },
+  "2686": {
+   "name": "Amphitheatre",
+   "construction": false
+  },
+  "3158": {
+   "name": "Murex Snails",
+   "construction": false
+  },
+  "6707": {
+   "name": "Recreation Ground",
+   "construction": false
+  },
+  "6708": {
+   "name": "Alder Council",
+   "construction": false
+  },
+  "6709": {
+   "name": "Bardic Hearth",
+   "construction": false
+  },
+  "6710": {
+   "name": "Fanum",
+   "construction": false
+  },
+  "7985": {
+   "name": "Saltwort",
+   "construction": false
+  },
+  "8404": {
+   "name": "Ponies",
+   "construction": false
+  },
+  "8405": {
+   "name": "Sausages",
+   "construction": false
+  },
+  "8420": {
+   "name": "Seashells",
+   "construction": false
+  },
+  "8558": {
+   "name": "Caviar",
+   "construction": false
+  },
+  "8561": {
+   "name": "Sandarac Wood",
+   "construction": false
+  },
+  "8562": {
+   "name": "Cushions",
+   "construction": false
+  },
+  "8563": {
+   "name": "Minerals",
+   "construction": false
+  },
+  "13810": {
+   "name": "Armour",
+   "construction": true
+  },
+  "30724": {
+   "name": "Aqueduct Cistern",
+   "construction": false
+  },
+  "31694": {
+   "name": "Hemp",
+   "construction": false
+  },
+  "31695": {
+   "name": "Resin",
+   "construction": false
+  },
+  "31697": {
+   "name": "Gold Ore",
+   "construction": false
+  },
+  "31698": {
+   "name": "Gold",
+   "construction": false
+  },
+  "31700": {
+   "name": "Amphorae",
+   "construction": false
+  },
+  "31701": {
+   "name": "Herbs",
+   "construction": false
+  },
+  "31702": {
+   "name": "Beavers",
+   "construction": false
+  },
+  "31703": {
+   "name": "Saltwash",
+   "construction": false
+  },
+  "31704": {
+   "name": "Head Piece",
+   "construction": false
+  },
+  "31706": {
+   "name": "Clan Shields",
+   "construction": false
+  },
+  "31707": {
+   "name": "Fur Hats",
+   "construction": false
+  },
+  "31708": {
+   "name": "Wigs",
+   "construction": false
+  },
+  "31709": {
+   "name": "Granite",
+   "construction": true
+  },
+  "31757": {
+   "name": "Gambling House",
+   "construction": false
+  },
+  "31768": {
+   "name": "Roast Beef",
+   "construction": false
+  },
+  "55954": {
+   "name": "Drinking Horns",
+   "construction": false
+  },
+  "55955": {
+   "name": "Barrow",
+   "construction": false
+  },
+  "55956": {
+   "name": "Sacred Grove",
+   "construction": false
+  },
+  "145102": {
+   "name": "Obsidian",
+   "construction": false
+  },
+  "145220": {
+   "name": "Statuettes",
+   "construction": false
+  },
+  "145221": {
+   "name": "Latrunculi Sets",
+   "construction": false
+  },
+  "152719": {
+   "name": "Hippodrome",
+   "construction": false
+  }
+ },
+ "tiers": [
+  {
+   "guid": 1499,
+   "name": "Liberti",
+   "region": "Roman",
+   "province": "Latium",
+   "workforce": 2181,
+   "residence": 3087,
+   "residence_name": "Libertus Residence",
+   "parent": null,
+   "index": 1,
+   "needs": [
+    {
+     "name": "Sardines",
+     "product": 2088,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Porridge",
+     "product": 2136,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Bread",
+     "product": 2137,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": 159339,
+     "dlc": []
+    },
+    {
+     "name": "Market",
+     "product": 2671,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Tavern",
+     "product": 2677,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Tunics",
+     "product": 2141,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Pileus",
+     "product": 2142,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Beer Demand in Latium",
+     "product": 2154,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Knowledge",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    }
+   ]
+  },
+  {
+   "guid": 1496,
+   "name": "Plebeians",
+   "region": "Roman",
+   "province": "Latium",
+   "workforce": 2184,
+   "residence": 3141,
+   "residence_name": "Plebeian Residence",
+   "parent": 1499,
+   "index": 2,
+   "needs": [
+    {
+     "name": "Sardines",
+     "product": 2088,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Porridge",
+     "product": 2136,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Market",
+     "product": 2671,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Tavern",
+     "product": 2677,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Tunics",
+     "product": 2141,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Pileus",
+     "product": 2142,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Beer Demand in Latium",
+     "product": 2154,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Knowledge",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Bread",
+     "product": 2137,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Garum",
+     "product": 2139,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Wine",
+     "product": 2138,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Belief",
+      "Happiness",
+      "Knowledge",
+      "Money"
+     ],
+     "requires_item": 166487,
+     "dlc": []
+    },
+    {
+     "name": "Sanctuary",
+     "product": 2679,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Belief",
+      "Happiness"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Grammaticus",
+     "product": 2680,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Knowledge"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Sandals",
+     "product": 2144,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Soap",
+     "product": 2143,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Amphorae",
+     "product": 31700,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "FireSafety",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Olive Oil",
+     "product": 2149,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Statuettes",
+     "product": 145220,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Belief",
+      "Money",
+      "Population"
+     ],
+     "requires_item": 166495,
+     "dlc": [
+      67902
+     ]
+    }
+   ]
+  },
+  {
+   "guid": 1497,
+   "name": "Equites",
+   "region": "Roman",
+   "province": "Latium",
+   "workforce": 2185,
+   "residence": 3142,
+   "residence_name": "Eques Residence",
+   "parent": 1496,
+   "index": 3,
+   "needs": [
+    {
+     "name": "Sardines",
+     "product": 2088,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Porridge",
+     "product": 2136,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Market",
+     "product": 2671,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Tavern",
+     "product": 2677,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Tunics",
+     "product": 2141,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Pileus",
+     "product": 2142,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Beer Demand in Latium",
+     "product": 2154,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Knowledge",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Bread",
+     "product": 2137,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Garum",
+     "product": 2139,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Sanctuary",
+     "product": 2679,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Belief",
+      "Happiness"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Grammaticus",
+     "product": 2680,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Knowledge"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Sandals",
+     "product": 2144,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Soap",
+     "product": 2143,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Amphorae",
+     "product": 31700,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "FireSafety",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Olive Oil",
+     "product": 2149,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Wine",
+     "product": 2138,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Belief",
+      "Happiness",
+      "Knowledge",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Cheese",
+     "product": 2153,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Roast Beef",
+     "product": 31768,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": 166497,
+     "dlc": []
+    },
+    {
+     "name": "Aqueduct Cistern",
+     "product": 30724,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "FireSafety",
+      "Health"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Theatre",
+     "product": 2683,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Knowledge",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Gambling House Demand in Latium",
+     "product": 31757,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Togas",
+     "product": 2145,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Population",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Brooches",
+     "product": 2156,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Belief",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Writing Tablets",
+     "product": 2150,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Knowledge",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Fine Glass",
+     "product": 2151,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Horses",
+     "product": 2075,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Population",
+      "Prestige"
+     ],
+     "requires_item": 156267,
+     "dlc": []
+    },
+    {
+     "name": "Statuettes",
+     "product": 145220,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Belief",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": [
+      67902
+     ]
+    },
+    {
+     "name": "Forum",
+     "product": 2681,
+     "category": "Wonders",
+     "building": true,
+     "attrs": [
+      "Money",
+      "Population",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Baths",
+     "product": 2685,
+     "category": "Wonders",
+     "building": true,
+     "attrs": [
+      "FireSafety",
+      "Health",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    }
+   ]
+  },
+  {
+   "guid": 1498,
+   "name": "Patricians",
+   "region": "Roman",
+   "province": "Latium",
+   "workforce": 2186,
+   "residence": 3145,
+   "residence_name": "Patrician Residence",
+   "parent": 1497,
+   "index": 4,
+   "needs": [
+    {
+     "name": "Sardines",
+     "product": 2088,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Porridge",
+     "product": 2136,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Market",
+     "product": 2671,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Tavern",
+     "product": 2677,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Tunics",
+     "product": 2141,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Pileus",
+     "product": 2142,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Beer Demand in Latium",
+     "product": 2154,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Knowledge",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Bread",
+     "product": 2137,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Garum",
+     "product": 2139,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Sanctuary",
+     "product": 2679,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Belief",
+      "Happiness"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Grammaticus",
+     "product": 2680,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Knowledge"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Sandals",
+     "product": 2144,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Soap",
+     "product": 2143,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Amphorae",
+     "product": 31700,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "FireSafety",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Olive Oil",
+     "product": 2149,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Wine",
+     "product": 2138,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Belief",
+      "Happiness",
+      "Knowledge",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Cheese",
+     "product": 2153,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Roast Beef",
+     "product": 31768,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": 166497,
+     "dlc": []
+    },
+    {
+     "name": "Aqueduct Cistern",
+     "product": 30724,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "FireSafety",
+      "Health"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Theatre",
+     "product": 2683,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Knowledge",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Gambling House Demand in Latium",
+     "product": 31757,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Togas",
+     "product": 2145,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Population",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Brooches",
+     "product": 2156,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Belief",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Writing Tablets",
+     "product": 2150,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Knowledge",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Fine Glass",
+     "product": 2151,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Horses",
+     "product": 2075,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Population",
+      "Prestige"
+     ],
+     "requires_item": 156267,
+     "dlc": []
+    },
+    {
+     "name": "Statuettes",
+     "product": 145220,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Belief",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": [
+      67902
+     ]
+    },
+    {
+     "name": "Forum",
+     "product": 2681,
+     "category": "Wonders",
+     "building": true,
+     "attrs": [
+      "Money",
+      "Population",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Baths",
+     "product": 2685,
+     "category": "Wonders",
+     "building": true,
+     "attrs": [
+      "FireSafety",
+      "Health",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Oysters with Caviar",
+     "product": 2140,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Bird Tongues in Aspic",
+     "product": 2155,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Money",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Temple",
+     "product": 2684,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Belief",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Library",
+     "product": 2678,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "FireSafety",
+      "Knowledge",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Necklaces",
+     "product": 2146,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Cloaks",
+     "product": 2161,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Health",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Wigs",
+     "product": 31708,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "FireSafety",
+      "Money",
+      "Prestige"
+     ],
+     "requires_item": 166485,
+     "dlc": []
+    },
+    {
+     "name": "Loungers",
+     "product": 2147,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "FireSafety",
+      "Happiness",
+      "Money",
+      "Population",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Handmirrors",
+     "product": 2162,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Knowledge",
+      "Money",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Standing Lyres",
+     "product": 2166,
+     "category": "Culture",
+     "building": false,
+     "attrs": [
+      "Belief",
+      "Knowledge",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Chariots",
+     "product": 2163,
+     "category": "Culture",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Health",
+      "Money",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Latrunculi Sets",
+     "product": 145221,
+     "category": "Culture",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Knowledge",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": [
+      67902
+     ]
+    },
+    {
+     "name": "Amphitheatre",
+     "product": 2686,
+     "category": "Wonders",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Population",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Hippodrome",
+     "product": 152719,
+     "category": "Wonders",
+     "building": true,
+     "attrs": [
+      "Belief",
+      "Happiness",
+      "Money",
+      "Population",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": [
+      67903
+     ]
+    }
+   ]
+  },
+  {
+   "guid": 1500,
+   "name": "Waders",
+   "region": "Celtic",
+   "province": "Albion",
+   "workforce": 2192,
+   "residence": 6414,
+   "residence_name": "Wader Residence",
+   "parent": null,
+   "index": 1,
+   "needs": [
+    {
+     "name": "Cockles",
+     "product": 2097,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Eels",
+     "product": 2108,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Market",
+     "product": 2671,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Bardic Hearth",
+     "product": 6709,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Reed Shoes",
+     "product": 2159,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Tunics",
+     "product": 2141,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Garum Demand in Albion",
+     "product": 2139,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    }
+   ]
+  },
+  {
+   "guid": 1501,
+   "name": "Smiths",
+   "region": "Celtic",
+   "province": "Albion",
+   "workforce": 2196,
+   "residence": 6471,
+   "residence_name": "Smith Residence",
+   "parent": 1500,
+   "index": 2,
+   "needs": [
+    {
+     "name": "Cockles",
+     "product": 2097,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Eels",
+     "product": 2108,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Market",
+     "product": 2671,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Bardic Hearth",
+     "product": 6709,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Reed Shoes",
+     "product": 2159,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Tunics",
+     "product": 2141,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Garum Demand in Albion",
+     "product": 2139,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Cheese",
+     "product": 2153,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Beer",
+     "product": 2154,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Knowledge",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Recreation Ground",
+     "product": 6707,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Health",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Fanum",
+     "product": 6710,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Belief",
+      "Knowledge"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Trousers",
+     "product": 2158,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Torcs",
+     "product": 2157,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Drinking Horns",
+     "product": 55954,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Clan Shields",
+     "product": 31706,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Belief",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    }
+   ]
+  },
+  {
+   "guid": 1503,
+   "name": "Mercators",
+   "region": "Celtic",
+   "province": "Albion",
+   "workforce": 2198,
+   "residence": 6475,
+   "residence_name": "Mercator Residence",
+   "parent": 1500,
+   "index": 2,
+   "needs": [
+    {
+     "name": "Cockles",
+     "product": 2097,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Eels",
+     "product": 2108,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Market",
+     "product": 2671,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Bardic Hearth",
+     "product": 6709,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Reed Shoes",
+     "product": 2159,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Tunics",
+     "product": 2141,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Garum Demand in Albion",
+     "product": 2139,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Bread",
+     "product": 2137,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Sausages",
+     "product": 8405,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Grammaticus",
+     "product": 2680,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Knowledge"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Fanum",
+     "product": 6710,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Belief",
+      "Knowledge"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Brooches",
+     "product": 2156,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Belief",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Soap",
+     "product": 2143,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Population",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Amphorae",
+     "product": 31700,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "FireSafety",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Olive Oil",
+     "product": 2149,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Statuettes",
+     "product": 145220,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Belief",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": [
+      67902
+     ]
+    }
+   ]
+  },
+  {
+   "guid": 1502,
+   "name": "Aldermen",
+   "region": "Celtic",
+   "province": "Albion",
+   "workforce": 2197,
+   "residence": 6472,
+   "residence_name": "Alderman Residence",
+   "parent": 1501,
+   "index": 3,
+   "needs": [
+    {
+     "name": "Cockles",
+     "product": 2097,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Eels",
+     "product": 2108,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Market",
+     "product": 2671,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Bardic Hearth",
+     "product": 6709,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Reed Shoes",
+     "product": 2159,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Tunics",
+     "product": 2141,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Garum Demand in Albion",
+     "product": 2139,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Cheese",
+     "product": 2153,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Beer",
+     "product": 2154,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Knowledge",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Recreation Ground",
+     "product": 6707,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Health",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Fanum",
+     "product": 6710,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Belief",
+      "Knowledge"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Trousers",
+     "product": 2158,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Torcs",
+     "product": 2157,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Drinking Horns",
+     "product": 55954,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Clan Shields",
+     "product": 31706,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Belief",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Roast Beef",
+     "product": 31768,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Wine",
+     "product": 2138,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Belief",
+      "Happiness",
+      "Knowledge",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Alder Council",
+     "product": 6708,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Belief",
+      "Knowledge",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Theatre",
+     "product": 2683,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Knowledge",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Gambling House Demand in Albion",
+     "product": 31757,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Cloaks",
+     "product": 2161,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Fur Hats",
+     "product": 31707,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Health",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Necklaces",
+     "product": 2146,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Prestige"
+     ],
+     "requires_item": 166475,
+     "dlc": []
+    },
+    {
+     "name": "Chariots",
+     "product": 2163,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Money",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Fine Glass",
+     "product": 2151,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Latrunculi Sets",
+     "product": 145221,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Knowledge",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": [
+      67902
+     ]
+    },
+    {
+     "name": "Barrow",
+     "product": 55955,
+     "category": "Wonders",
+     "building": true,
+     "attrs": [
+      "Belief",
+      "Health",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Sacred Grove",
+     "product": 55956,
+     "category": "Wonders",
+     "building": true,
+     "attrs": [
+      "Belief",
+      "Knowledge"
+     ],
+     "requires_item": null,
+     "dlc": []
+    }
+   ]
+  },
+  {
+   "guid": 1504,
+   "name": "Nobles",
+   "region": "Celtic",
+   "province": "Albion",
+   "workforce": 2199,
+   "residence": 6514,
+   "residence_name": "Noble Residence",
+   "parent": 1503,
+   "index": 3,
+   "needs": [
+    {
+     "name": "Cockles",
+     "product": 2097,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Eels",
+     "product": 2108,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Market",
+     "product": 2671,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Bardic Hearth",
+     "product": 6709,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Reed Shoes",
+     "product": 2159,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Tunics",
+     "product": 2141,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Garum Demand in Albion",
+     "product": 2139,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Bread",
+     "product": 2137,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Sausages",
+     "product": 8405,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Grammaticus",
+     "product": 2680,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Knowledge"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Fanum",
+     "product": 6710,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Belief",
+      "Knowledge"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Brooches",
+     "product": 2156,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Belief",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Soap",
+     "product": 2143,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Population",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Amphorae",
+     "product": 31700,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "FireSafety",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Olive Oil",
+     "product": 2149,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Statuettes",
+     "product": 145220,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Belief",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": [
+      67902
+     ]
+    },
+    {
+     "name": "Bird Tongues in Aspic",
+     "product": 2155,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Happiness",
+      "Money",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Wine",
+     "product": 2138,
+     "category": "Food",
+     "building": false,
+     "attrs": [
+      "Belief",
+      "Happiness",
+      "Knowledge",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Aqueduct Cistern",
+     "product": 30724,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "FireSafety",
+      "Health"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Theatre",
+     "product": 2683,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Knowledge",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Gambling House Demand in Albion",
+     "product": 31757,
+     "category": "Public",
+     "building": true,
+     "attrs": [
+      "Happiness",
+      "Money",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Wigs",
+     "product": 31708,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "FireSafety",
+      "Money",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Togas",
+     "product": 2145,
+     "category": "Fashion",
+     "building": false,
+     "attrs": [
+      "Population",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Handmirrors",
+     "product": 2162,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Health",
+      "Knowledge",
+      "Money"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Fine Glass",
+     "product": 2151,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "Money",
+      "Prestige"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Loungers",
+     "product": 2147,
+     "category": "Household",
+     "building": false,
+     "attrs": [
+      "FireSafety",
+      "Happiness",
+      "Money",
+      "Population",
+      "Prestige"
+     ],
+     "requires_item": 166479,
+     "dlc": []
+    },
+    {
+     "name": "Temple",
+     "product": 2684,
+     "category": "Wonders",
+     "building": true,
+     "attrs": [
+      "Belief",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    },
+    {
+     "name": "Baths",
+     "product": 2685,
+     "category": "Wonders",
+     "building": true,
+     "attrs": [
+      "FireSafety",
+      "Health",
+      "Population"
+     ],
+     "requires_item": null,
+     "dlc": []
+    }
+   ]
+  }
+ ],
+ "factories": [
+  {
+   "guid": 2200,
+   "name": "Oat Farm",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Field",
+   "workforce": 2181,
+   "inputs": [],
+   "outputs": [
+    2068
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 2669,
+   "name": "Flax Farm",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Field",
+   "workforce": 2181,
+   "inputs": [],
+   "outputs": [
+    2063
+   ],
+   "dlc": [],
+   "fertility": 2202
+  },
+  {
+   "guid": 2693,
+   "name": "Wheat Farm",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Field",
+   "workforce": 2181,
+   "inputs": [],
+   "outputs": [
+    2069
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 2694,
+   "name": "Vineyard",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Field",
+   "workforce": 2181,
+   "inputs": [],
+   "outputs": [
+    2070
+   ],
+   "dlc": [],
+   "fertility": 2205
+  },
+  {
+   "guid": 2698,
+   "name": "Lavender Grower",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Field",
+   "workforce": 2181,
+   "inputs": [],
+   "outputs": [
+    2071
+   ],
+   "dlc": [],
+   "fertility": 2209
+  },
+  {
+   "guid": 2699,
+   "name": "Olive Grower",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Field",
+   "workforce": 2181,
+   "inputs": [],
+   "outputs": [
+    2072
+   ],
+   "dlc": [],
+   "fertility": 2210
+  },
+  {
+   "guid": 2786,
+   "name": "Sheep Farm",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Pasture",
+   "workforce": 2181,
+   "inputs": [],
+   "outputs": [
+    2073
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 2793,
+   "name": "Pig Farm",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Pasture",
+   "workforce": 2181,
+   "inputs": [],
+   "outputs": [
+    2074
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 2794,
+   "name": "Horse Breeder",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Pasture",
+   "workforce": 2185,
+   "inputs": [],
+   "outputs": [
+    2075
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 2795,
+   "name": "Apiary",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Meadow",
+   "workforce": 2181,
+   "inputs": [],
+   "outputs": [
+    2076
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 2878,
+   "name": "Woodcutter",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Forest",
+   "workforce": 2181,
+   "inputs": [],
+   "outputs": [
+    2077
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 2880,
+   "name": "Charcoal Burner",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Forest",
+   "workforce": 2184,
+   "inputs": [],
+   "outputs": [
+    2085
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 2916,
+   "name": "Limestone Quarry",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Mountain",
+   "workforce": 2184,
+   "inputs": [],
+   "outputs": [
+    2078
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 2918,
+   "name": "Iron Mine",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Mountain",
+   "workforce": 2184,
+   "inputs": [],
+   "outputs": [
+    2080
+   ],
+   "dlc": [],
+   "fertility": 4049
+  },
+  {
+   "guid": 2920,
+   "name": "Mineral Quarry",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Mountain",
+   "workforce": 2184,
+   "inputs": [],
+   "outputs": [
+    8563
+   ],
+   "dlc": [],
+   "fertility": 4053
+  },
+  {
+   "guid": 2954,
+   "name": "Marble Quarry",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Mountain",
+   "workforce": 2184,
+   "inputs": [],
+   "outputs": [
+    2084
+   ],
+   "dlc": [],
+   "fertility": 4062
+  },
+  {
+   "guid": 2955,
+   "name": "Fishing Hut",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Coast",
+   "workforce": 2181,
+   "inputs": [],
+   "outputs": [
+    2088
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 2956,
+   "name": "Scomber's Shack",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Coast",
+   "workforce": 2181,
+   "inputs": [],
+   "outputs": [
+    2089
+   ],
+   "dlc": [],
+   "fertility": 2206
+  },
+  {
+   "guid": 2957,
+   "name": "Salt Ponds",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Coast",
+   "workforce": 2184,
+   "inputs": [],
+   "outputs": [
+    2090
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 2958,
+   "name": "Sand Refinery",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Coast",
+   "workforce": 2184,
+   "inputs": [],
+   "outputs": [
+    2091
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 2970,
+   "name": "Clay Pit",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "River",
+   "workforce": 2184,
+   "inputs": [],
+   "outputs": [
+    2086
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 2971,
+   "name": "Sturgeon Hatchery",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "River",
+   "workforce": 2181,
+   "inputs": [],
+   "outputs": [
+    2087
+   ],
+   "dlc": [],
+   "fertility": 8577
+  },
+  {
+   "guid": 2994,
+   "name": "Tannery",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Chemical",
+   "workforce": 2184,
+   "inputs": [
+    2074,
+    2090
+   ],
+   "outputs": [
+    2110
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 2999,
+   "name": "Dye Works",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Chemical",
+   "workforce": 2185,
+   "inputs": [
+    3158
+   ],
+   "outputs": [
+    2180
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3070,
+   "name": "Furnace",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Heavy",
+   "workforce": 2184,
+   "inputs": [
+    2080,
+    2085
+   ],
+   "outputs": [
+    2115
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3074,
+   "name": "Glass Smelter",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Heavy",
+   "workforce": 2185,
+   "inputs": [
+    2091,
+    2085
+   ],
+   "outputs": [
+    2117
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3075,
+   "name": "Grain Mill",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Ingredient",
+   "workforce": 2184,
+   "inputs": [
+    2069
+   ],
+   "outputs": [
+    2119
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3079,
+   "name": "Weaver",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Crafts",
+   "workforce": 2185,
+   "inputs": [
+    2063
+   ],
+   "outputs": [
+    2121
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3081,
+   "name": "Gilder",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Crafts",
+   "workforce": 2186,
+   "inputs": [
+    8561,
+    31698
+   ],
+   "outputs": [
+    2123
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3082,
+   "name": "Mineral Crusher",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Heavy",
+   "workforce": 2184,
+   "inputs": [
+    8563
+   ],
+   "outputs": [
+    2124
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3089,
+   "name": "Sawmill",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Construction",
+   "workforce": 2181,
+   "inputs": [
+    2077
+   ],
+   "outputs": [
+    2174
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3091,
+   "name": "Tiler",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Construction",
+   "workforce": 2184,
+   "inputs": [
+    2086,
+    2085
+   ],
+   "outputs": [
+    2176
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3129,
+   "name": "Concrete Mixer",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Construction",
+   "workforce": 2185,
+   "inputs": [
+    2078,
+    2091
+   ],
+   "outputs": [
+    2178
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3138,
+   "name": "Marble Mason",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Construction",
+   "workforce": 2185,
+   "inputs": [
+    2084
+   ],
+   "outputs": [
+    2179
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3168,
+   "name": "Ropemaker",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Military",
+   "workforce": 2184,
+   "inputs": [
+    31694
+   ],
+   "outputs": [
+    2171
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3169,
+   "name": "Sailmaker",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Military",
+   "workforce": 2184,
+   "inputs": [
+    2073
+   ],
+   "outputs": [
+    2172
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3170,
+   "name": "Weaponsmith",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Military",
+   "workforce": 2184,
+   "inputs": [
+    2115,
+    2085
+   ],
+   "outputs": [
+    2173
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3171,
+   "name": "Porridge Stand",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Food",
+   "workforce": 2181,
+   "inputs": [
+    2068
+   ],
+   "outputs": [
+    2136
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3174,
+   "name": "Bakery",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Food",
+   "workforce": 2184,
+   "inputs": [
+    2119,
+    2085
+   ],
+   "outputs": [
+    2137
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3177,
+   "name": "Vintner",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Food",
+   "workforce": 2185,
+   "inputs": [
+    2070,
+    2076
+   ],
+   "outputs": [
+    2138
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3185,
+   "name": "Garum Works",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Food",
+   "workforce": 2184,
+   "inputs": [
+    2089,
+    2090
+   ],
+   "outputs": [
+    2139
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3186,
+   "name": "Epicure of Water",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Food",
+   "workforce": 2186,
+   "inputs": [
+    2112,
+    8558
+   ],
+   "outputs": [
+    2140
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3187,
+   "name": "Spinner",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Fashion",
+   "workforce": 2181,
+   "inputs": [
+    31694
+   ],
+   "outputs": [
+    2141
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3188,
+   "name": "Pileus Felter",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Fashion",
+   "workforce": 2181,
+   "inputs": [
+    2073
+   ],
+   "outputs": [
+    2142
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3189,
+   "name": "Soap Maker",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Fashion",
+   "workforce": 2184,
+   "inputs": [
+    2071,
+    2132
+   ],
+   "outputs": [
+    2143
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3190,
+   "name": "Sandal Maker",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Fashion",
+   "workforce": 2184,
+   "inputs": [
+    2110
+   ],
+   "outputs": [
+    2144
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3191,
+   "name": "Loom Weavery",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Fashion",
+   "workforce": 2185,
+   "inputs": [
+    2121,
+    2180
+   ],
+   "outputs": [
+    2145
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3192,
+   "name": "Jeweller",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Fashion",
+   "workforce": 2186,
+   "inputs": [
+    8563,
+    31698,
+    2085
+   ],
+   "outputs": [
+    2146
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3198,
+   "name": "Chair Maker",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Household",
+   "workforce": 2186,
+   "inputs": [
+    8561,
+    8562
+   ],
+   "outputs": [
+    2147
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3199,
+   "name": "Potter",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Household",
+   "workforce": 2184,
+   "inputs": [
+    2086,
+    31695,
+    2085
+   ],
+   "outputs": [
+    31700
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3201,
+   "name": "Tabulus",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Household",
+   "workforce": 2185,
+   "inputs": [
+    8561,
+    2076
+   ],
+   "outputs": [
+    2150
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3202,
+   "name": "Glassblower",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Household",
+   "workforce": 2185,
+   "inputs": [
+    2124,
+    2117,
+    2085
+   ],
+   "outputs": [
+    2151
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 3203,
+   "name": "Tessera Works",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Construction",
+   "workforce": 2186,
+   "inputs": [
+    2086,
+    2124,
+    2085
+   ],
+   "outputs": [
+    2152
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 4831,
+   "name": "Olive Press",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Household",
+   "workforce": 2184,
+   "inputs": [
+    2072
+   ],
+   "outputs": [
+    2149
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 4832,
+   "name": "Lythier",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Culture",
+   "workforce": 2186,
+   "inputs": [
+    2135,
+    2123
+   ],
+   "outputs": [
+    2166
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5481,
+   "name": "Stringer",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Craft",
+   "workforce": 2186,
+   "inputs": [
+    2073
+   ],
+   "outputs": [
+    2135
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 8579,
+   "name": "Sandarac Nursery",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Field",
+   "workforce": 2181,
+   "inputs": [],
+   "outputs": [
+    8561
+   ],
+   "dlc": [],
+   "fertility": 4052
+  },
+  {
+   "guid": 8580,
+   "name": "Snailery",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Coast",
+   "workforce": 2181,
+   "inputs": [],
+   "outputs": [
+    3158
+   ],
+   "dlc": [],
+   "fertility": 4051
+  },
+  {
+   "guid": 8586,
+   "name": "Oyster Bed",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Coast",
+   "workforce": 2181,
+   "inputs": [],
+   "outputs": [
+    2112
+   ],
+   "dlc": [],
+   "fertility": 2208
+  },
+  {
+   "guid": 8887,
+   "name": "Cushion Stuffer",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Crafts",
+   "workforce": 2186,
+   "inputs": [
+    2063,
+    2180
+   ],
+   "outputs": [
+    8562
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 8893,
+   "name": "Fish Gutter",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Ingredient",
+   "workforce": 2186,
+   "inputs": [
+    2087
+   ],
+   "outputs": [
+    8558
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 13808,
+   "name": "Armourer",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Military",
+   "workforce": 2184,
+   "inputs": [
+    2110,
+    2115,
+    2085
+   ],
+   "outputs": [
+    13810
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 31750,
+   "name": "Hemp Farm",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Field",
+   "workforce": 2181,
+   "inputs": [],
+   "outputs": [
+    31694
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 31752,
+   "name": "Resin Tapper",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Forest",
+   "workforce": 2184,
+   "inputs": [],
+   "outputs": [
+    31695
+   ],
+   "dlc": [],
+   "fertility": 51212
+  },
+  {
+   "guid": 31753,
+   "name": "Gold Washer",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "River",
+   "workforce": 2184,
+   "inputs": [],
+   "outputs": [
+    31697
+   ],
+   "dlc": [],
+   "fertility": 32027
+  },
+  {
+   "guid": 31755,
+   "name": "Goldsmith",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Heavy",
+   "workforce": 2186,
+   "inputs": [
+    31697,
+    2085
+   ],
+   "outputs": [
+    31698
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 31756,
+   "name": "Renderer",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Chemical",
+   "workforce": 2184,
+   "inputs": [
+    2074,
+    2085
+   ],
+   "outputs": [
+    2132
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 50280,
+   "name": "Gold Mine",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Mountain",
+   "workforce": 2184,
+   "inputs": [],
+   "outputs": [
+    31697
+   ],
+   "dlc": [],
+   "fertility": 32027
+  },
+  {
+   "guid": 144810,
+   "name": "Coal Mine",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Mountain",
+   "workforce": 2184,
+   "inputs": [],
+   "outputs": [
+    2085
+   ],
+   "dlc": [
+    67902
+   ],
+   "fertility": 0
+  },
+  {
+   "guid": 145229,
+   "name": "Caelator",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Household",
+   "workforce": 2185,
+   "inputs": [
+    145102,
+    2084
+   ],
+   "outputs": [
+    145220
+   ],
+   "dlc": [
+    67902
+   ],
+   "fertility": 0
+  },
+  {
+   "guid": 145230,
+   "name": "Latrunculi Workshop",
+   "region": "Roman",
+   "province": "Latium",
+   "category": "Culture",
+   "workforce": 2186,
+   "inputs": [
+    145102,
+    2123
+   ],
+   "outputs": [
+    145221
+   ],
+   "dlc": [
+    67902
+   ],
+   "fertility": 0
+  },
+  {
+   "guid": 2796,
+   "name": "Saltwort Picker",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Coast",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    7985
+   ],
+   "dlc": [],
+   "fertility": 2218
+  },
+  {
+   "guid": 2799,
+   "name": "Barley Farm",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Field",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    2093
+   ],
+   "dlc": [],
+   "fertility": 2212
+  },
+  {
+   "guid": 2800,
+   "name": "Weld Crop",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Field",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    2094
+   ],
+   "dlc": [],
+   "fertility": 2217
+  },
+  {
+   "guid": 5278,
+   "name": "Cockle Picker",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Coast",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    2097
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5290,
+   "name": "Copper Mine",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Mountain",
+   "workforce": 2196,
+   "inputs": [],
+   "outputs": [
+    2099
+   ],
+   "dlc": [],
+   "fertility": 4063
+  },
+  {
+   "guid": 5291,
+   "name": "Tin Mine",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Mountain",
+   "workforce": 2196,
+   "inputs": [],
+   "outputs": [
+    2100
+   ],
+   "dlc": [],
+   "fertility": 4064
+  },
+  {
+   "guid": 5295,
+   "name": "Granite Quarry",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Mountain",
+   "workforce": 2196,
+   "inputs": [],
+   "outputs": [
+    2101
+   ],
+   "dlc": [],
+   "fertility": 4066
+  },
+  {
+   "guid": 5299,
+   "name": "Eel Grabber",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Marsh",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    2108
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5469,
+   "name": "Greenhands",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Chemical",
+   "workforce": 2197,
+   "inputs": [
+    2094,
+    2099
+   ],
+   "outputs": [
+    2126
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5470,
+   "name": "Bronze Smelter",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Heavy",
+   "workforce": 2196,
+   "inputs": [
+    2100,
+    2099,
+    2085
+   ],
+   "outputs": [
+    2127
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5472,
+   "name": "Silver Forge",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Heavy",
+   "workforce": 2198,
+   "inputs": [
+    2079,
+    2085
+   ],
+   "outputs": [
+    2129
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5474,
+   "name": "Malthouse",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Ingredient",
+   "workforce": 2196,
+   "inputs": [
+    2093
+   ],
+   "outputs": [
+    2131
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5475,
+   "name": "Renderer",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Chemical",
+   "workforce": 2198,
+   "inputs": [
+    2074,
+    2085
+   ],
+   "outputs": [
+    2132
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5477,
+   "name": "Tongue Plucker",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Ingredient",
+   "workforce": 2198,
+   "inputs": [
+    2106
+   ],
+   "outputs": [
+    2133
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5570,
+   "name": "Brewery",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Food",
+   "workforce": 2196,
+   "inputs": [
+    2131,
+    2085
+   ],
+   "outputs": [
+    2154
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5604,
+   "name": "Epicure of Air",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Food",
+   "workforce": 2199,
+   "inputs": [
+    2133,
+    2132
+   ],
+   "outputs": [
+    2155
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5605,
+   "name": "Fibularium",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Fashion",
+   "workforce": 2198,
+   "inputs": [
+    2129,
+    2085
+   ],
+   "outputs": [
+    2156
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5606,
+   "name": "Wire-Twister",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Fashion",
+   "workforce": 2196,
+   "inputs": [
+    2099,
+    2085
+   ],
+   "outputs": [
+    2157
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5608,
+   "name": "Hosier",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Fashion",
+   "workforce": 2196,
+   "inputs": [
+    2073,
+    2094
+   ],
+   "outputs": [
+    2158
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5609,
+   "name": "Shoe Weaver",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Fashion",
+   "workforce": 2192,
+   "inputs": [
+    2103
+   ],
+   "outputs": [
+    2159
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5611,
+   "name": "Chassis Builder",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Craft",
+   "workforce": 2197,
+   "inputs": [
+    2077,
+    2103
+   ],
+   "outputs": [
+    2128
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5614,
+   "name": "Birrus Stitcher",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Fashion",
+   "workforce": 2197,
+   "inputs": [
+    2073,
+    2126
+   ],
+   "outputs": [
+    2161
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5615,
+   "name": "Narcissium",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Household",
+   "workforce": 2199,
+   "inputs": [
+    8420,
+    2129,
+    2085
+   ],
+   "outputs": [
+    2162
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5616,
+   "name": "Chariot Workshop",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Culture",
+   "workforce": 2197,
+   "inputs": [
+    8404,
+    2128
+   ],
+   "outputs": [
+    2163
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5847,
+   "name": "Auroch Farm",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Marsh",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    2105
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5848,
+   "name": "Mud Drier",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Marsh",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    2102
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5849,
+   "name": "Reed Gatherer",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Marsh",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    2103
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5851,
+   "name": "Bird Charmer",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Marsh",
+   "workforce": 2199,
+   "inputs": [],
+   "outputs": [
+    2106
+   ],
+   "dlc": [],
+   "fertility": 2219
+  },
+  {
+   "guid": 5935,
+   "name": "Labourer's Yard",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Construction",
+   "workforce": 2196,
+   "inputs": [
+    2103,
+    2102
+   ],
+   "outputs": [
+    2169
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5945,
+   "name": "Sawmill",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Construction",
+   "workforce": 2192,
+   "inputs": [
+    2077
+   ],
+   "outputs": [
+    2174
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5946,
+   "name": "Concrete Mixer",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Construction",
+   "workforce": 2199,
+   "inputs": [
+    2078,
+    2091
+   ],
+   "outputs": [
+    2178
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5947,
+   "name": "Tiler",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Construction",
+   "workforce": 2192,
+   "inputs": [
+    2102,
+    2085
+   ],
+   "outputs": [
+    2176
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5954,
+   "name": "Weaponsmith",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Military",
+   "workforce": 2192,
+   "inputs": [
+    2115,
+    2085
+   ],
+   "outputs": [
+    2173
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5955,
+   "name": "Sailmaker",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Military",
+   "workforce": 2192,
+   "inputs": [
+    2073
+   ],
+   "outputs": [
+    2172
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5956,
+   "name": "Ropemaker",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Military",
+   "workforce": 2192,
+   "inputs": [
+    31694
+   ],
+   "outputs": [
+    2171
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5958,
+   "name": "Spinner",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Fashion",
+   "workforce": 2192,
+   "inputs": [
+    31694
+   ],
+   "outputs": [
+    2141
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5959,
+   "name": "Salsicium",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Food",
+   "workforce": 2198,
+   "inputs": [
+    2074,
+    31701,
+    2085
+   ],
+   "outputs": [
+    8405
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5960,
+   "name": "Bakery",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Food",
+   "workforce": 2198,
+   "inputs": [
+    2119,
+    2085
+   ],
+   "outputs": [
+    2137
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5967,
+   "name": "Donkey Mill",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Ingredient",
+   "workforce": 2198,
+   "inputs": [
+    2069
+   ],
+   "outputs": [
+    2119
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5969,
+   "name": "Furnace",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Heavy",
+   "workforce": 2192,
+   "inputs": [
+    2080,
+    2085
+   ],
+   "outputs": [
+    2115
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5971,
+   "name": "Flax Farm",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Field",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    2063
+   ],
+   "dlc": [],
+   "fertility": 2202
+  },
+  {
+   "guid": 5972,
+   "name": "Wheat Farm",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Field",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    2069
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5973,
+   "name": "Sheep Farm",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Pasture",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    2073
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5974,
+   "name": "Pig Farm",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Pasture",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    2074
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5975,
+   "name": "Horsecatcher",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Meadow",
+   "workforce": 2197,
+   "inputs": [],
+   "outputs": [
+    8404
+   ],
+   "dlc": [],
+   "fertility": 2211
+  },
+  {
+   "guid": 5976,
+   "name": "Woodcutter",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Forest",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    2077
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5977,
+   "name": "Charcoal Burner",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Forest",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    2085
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5978,
+   "name": "Limestone Quarry",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Mountain",
+   "workforce": 2198,
+   "inputs": [],
+   "outputs": [
+    2078
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 5980,
+   "name": "Silver Mine",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Mountain",
+   "workforce": 2198,
+   "inputs": [],
+   "outputs": [
+    2079
+   ],
+   "dlc": [],
+   "fertility": 8487
+  },
+  {
+   "guid": 5982,
+   "name": "Iron Mine",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Mountain",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    2080
+   ],
+   "dlc": [],
+   "fertility": 4049
+  },
+  {
+   "guid": 6586,
+   "name": "Dairy",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Food",
+   "workforce": 2196,
+   "inputs": [
+    2105
+   ],
+   "outputs": [
+    2153
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 8427,
+   "name": "Apiary",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Meadow",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    2076
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 8431,
+   "name": "Shell Gatherer",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Coast",
+   "workforce": 2199,
+   "inputs": [],
+   "outputs": [
+    8420
+   ],
+   "dlc": [],
+   "fertility": 8432
+  },
+  {
+   "guid": 10929,
+   "name": "Sand Refinery",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Coast",
+   "workforce": 2198,
+   "inputs": [],
+   "outputs": [
+    2091
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 15514,
+   "name": "Horse Breeder",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Pasture",
+   "workforce": 2199,
+   "inputs": [],
+   "outputs": [
+    2075
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 23723,
+   "name": "Vineyard",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Field",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    2070
+   ],
+   "dlc": [],
+   "fertility": 2205
+  },
+  {
+   "guid": 23753,
+   "name": "Vintner",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Food",
+   "workforce": 2199,
+   "inputs": [
+    2070,
+    2076
+   ],
+   "outputs": [
+    2138
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 31759,
+   "name": "Beaver Trapper",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Marsh",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    31702
+   ],
+   "dlc": [],
+   "fertility": 4082
+  },
+  {
+   "guid": 31761,
+   "name": "Resin Tapper",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Forest",
+   "workforce": 2198,
+   "inputs": [],
+   "outputs": [
+    31695
+   ],
+   "dlc": [],
+   "fertility": 51212
+  },
+  {
+   "guid": 31762,
+   "name": "Hemp Farm",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Field",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    31694
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 31764,
+   "name": "Herb Garden",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Field",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    31701
+   ],
+   "dlc": [],
+   "fertility": 2214
+  },
+  {
+   "guid": 31766,
+   "name": "Headpiece Maker",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Craft",
+   "workforce": 2199,
+   "inputs": [
+    2063,
+    31695
+   ],
+   "outputs": [
+    31704
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 31767,
+   "name": "Earth Oven",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Food",
+   "workforce": 2197,
+   "inputs": [
+    7985,
+    2105,
+    2085
+   ],
+   "outputs": [
+    31768
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 31769,
+   "name": "Wig Maker",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Fashion",
+   "workforce": 2199,
+   "inputs": [
+    2075,
+    31704
+   ],
+   "outputs": [
+    31708
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 31770,
+   "name": "Beaver Hatter",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Fashion",
+   "workforce": 2197,
+   "inputs": [
+    31702,
+    31703
+   ],
+   "outputs": [
+    31707
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 31772,
+   "name": "Saltwort Burner",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Chemical",
+   "workforce": 2197,
+   "inputs": [
+    7985,
+    2085
+   ],
+   "outputs": [
+    31703
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 31773,
+   "name": "Shieldbeater",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Culture",
+   "workforce": 2196,
+   "inputs": [
+    2094,
+    2127
+   ],
+   "outputs": [
+    31706
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 41811,
+   "name": "Granite Cutter",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Construction",
+   "workforce": 2197,
+   "inputs": [
+    2101
+   ],
+   "outputs": [
+    31709
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 55945,
+   "name": "Armourer",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Military",
+   "workforce": 2198,
+   "inputs": [
+    2110,
+    2115,
+    2085
+   ],
+   "outputs": [
+    13810
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 55962,
+   "name": "Potter",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Household",
+   "workforce": 2198,
+   "inputs": [
+    2102,
+    31695,
+    2085
+   ],
+   "outputs": [
+    31700
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 55963,
+   "name": "Horner",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Culture",
+   "workforce": 2196,
+   "inputs": [
+    2105,
+    2100
+   ],
+   "outputs": [
+    55954
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 80612,
+   "name": "Tannery",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Chemical",
+   "workforce": 2198,
+   "inputs": [
+    2074,
+    2077
+   ],
+   "outputs": [
+    2110
+   ],
+   "dlc": [],
+   "fertility": 0
+  },
+  {
+   "guid": 144811,
+   "name": "Coal Mine",
+   "region": "Celtic",
+   "province": "Albion",
+   "category": "Mountain",
+   "workforce": 2192,
+   "inputs": [],
+   "outputs": [
+    2085
+   ],
+   "dlc": [
+    67902
+   ],
+   "fertility": 0
+  }
+ ]
+}

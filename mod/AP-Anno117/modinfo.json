@@ -1,0 +1,32 @@
+{
+  "Anno": 8,
+  "ModID": "ap-anno117-bridge",
+  "Version": "0.1.4",
+  "Difficulty": "unchanged",
+  "GameSetup": {
+    "RequiresNewGame": true,
+    "SafeToRemove": false,
+    "Multiplayer": false,
+    "Campaign": false
+  },
+  "Category": {
+    "English": "Gameplay"
+  },
+  "ModName": {
+    "English": "Archipelago Randomizer Bridge"
+  },
+  "CreatorName": "aalbedhawi",
+  "Description": {
+    "English": "Connects Anno 117 to an Archipelago multiworld. Production buildings stay locked until someone in the multiworld finds them; your population milestones and first constructions send items to the other players. Needs the Anno 117 Client from the anno117.apworld running alongside the game. Unofficial fan project by aalbedhawi, not affiliated with Ubisoft."
+  },
+  "Scripts": {
+    "Modules": [
+      "ap_anno117/ap_bridge.lua",
+      "ap_anno117/ap_state.lua"
+    ],
+    "Init": "AP117 = require(\"ap_bridge\")",
+    "Load": "AP117.OnLoad()",
+    "Unload": "AP117.OnUnload()",
+    "Tick": "AP117.OnTick()"
+  }
+}
